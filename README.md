@@ -12,8 +12,11 @@
 
 <h2>🎓 Education </h2>
 <b>SMJK YOK BIN (2017-2019)</b><br>
-* 2nd place achievement in MILO Invitation National Waterpolo Championship in year 2017
-* Silver medal achievement in Arduino Competition in year 2018
+
+- 2nd place achievement in MILO Invitation National Waterpolo Championship in year 2017
+
+
+- Silver medal achievement in Arduino Competition in year 2018
 
 <b>ROYAL MILITARY COLLEGE (2020-2021)</b><br>
 *  5A 3B 1C in SPM
