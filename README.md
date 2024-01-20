@@ -34,10 +34,11 @@
 <h2>🌱 Courses </h2>
 
 **Year 1 Sem 1**
-* SECP1513 - [Technology and Information System]()
-* SECJ1013 - [Programming Technique 1]()
-* SECI1013 - [Discrete Structure]()
-* SECR1013 - [Digital Logic]()
+* SECP1513 - [Technology and Information System](https://github.com/FamQaiZen/Technology-and-Information-System)
+* SECJ1013 - [Programming Technique 1](https://github.com/FamQaiZen/Programming-Technique)
+* SECI1013 - [Discrete Structure](https://github.com/FamQaiZen/Discrete-Structure-)
+* SECR1013 - [Digital Logic](https://github.com/FamQaiZen/Digital-Logic)
+* ULRS1032 - [Integrity and Anti-Corruption](https://github.com/FamQaiZen/Integrity-and-Anti-Corruption-)
 
 
 
