@@ -19,7 +19,6 @@
 - Silver medal achievement in Arduino Competition in year 2018
 
 <b>ROYAL MILITARY COLLEGE (2020-2021)</b><br>
-*  5A 3B 1C in SPM
 *  2nd place in World Robotic Olympiad 2020
 *  Participate in International World Robotic Olympiad 2020
 *  President in Robotics RMC
